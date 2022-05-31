@@ -23,8 +23,6 @@ $ mongoimport --db people --collection users --file users.json
 ```bash
 $ show dbs
 $ use people
-$ show collections
-$ use users
 ```
 
 
