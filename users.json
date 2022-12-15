@@ -1,134 +1,134 @@
-    {
-      "name": "John Doe",
-      "age": 13,
-      "country": "USA",
-      "profession": "plumber",
-      "hasInsurance": true,
-      "married": true,
-      "children": null,
-      "wealthPerYear": "23K",
-      "email": "john@doe.com"
-    }
-    {
-      "name": "Mary Doe",
-      "age": 23,
-      "country": "USA",
-      "profession": "programmer",
-      "hasInsurance": true,
-      "married": false,
-      "children": 2,
-      "wealthPerYear": "26K",
-      "email": "mary@doe.com"
-    }
-    {
-      "name": "Marissa Geller",
-      "age": 45,
-      "country": "Ireland",
-      "profession": "cook",
-      "hasInsurance": false,
-      "married": true,
-      "children": 4,
-      "wealthPerYear": "43K",
-      "email": "marissa@doe.com"
-    }
-    {
-      "name": "Ted Mosby",
-      "age": 32,
-      "country": "USA",
-      "profession": "architect",
-      "hasInsurance": true,
-      "married": true,
-      "children": 2,
-      "wealthPerYear": "66K",
-      "email": "ted@gmail.com"
-    }
-    {
-      "name": "Aria Stark",
-      "age": 12,
-      "country": "UK",
-      "profession": "sword specialist",
-      "hasInsurance": true,
-      "married": false,
-      "children": null,
-      "wealthPerYear": "12K",
-      "email": "aria@stark.com"
-    }
-    {
-      "name": "Eleven Meyers",
-      "age": 18,
-      "country": "USA",
-      "profession": "demogorgon slayer",
-      "hasInsurance": true,
-      "married": false,
-      "children": null,
-      "wealthPerYear": "0K",
-      "email": "el@hawkins.com"
-    }
-    {
-      "name": "Hermione Granger",
-      "age": 13,
-      "country": "UK",
-      "profession": "witch",
-      "hasInsurance": false,
-      "married": true,
-      "children": 2,
-      "wealthPerYear": "78K",
-      "email": "hermione@hogwarts.com"
-    }
-    {
-      "name": "Chandler Bing",
-      "age": 50,
-      "country": "USA",
-      "profession": "advertisment copy writer",
-      "hasInsurance": true,
-      "married": true,
-      "children": 2,
-      "wealthPerYear": "88K",
-      "email": "chandler@bing.com",
-      "phone": "010643322"
-    }
-    {
-      "name": "Lily Aldrin",
-      "age": 35,
-      "country": "Italy",
-      "profession": "art counselor",
-      "hasInsurance": true,
-      "married": true,
-      "children": 3,
-      "wealthPerYear": "100K",
-      "email": "lily@captain.com"
-    }
-    {
-      "name": "Marshall Erikssen",
-      "age": 36,
-      "country": "Italy",
-      "profession": "judge fudge",
-      "hasInsurance": true,
-      "married": true,
-      "children": 3,
-      "wealthPerYear": "110K",
-      "email": "lily@captain.com"
-    }
-    {
-      "name": "Barney Stinson",
-      "age": 42,
-      "country": "Argentina",
-      "profession": "p.l.e.a.s.e",
-      "hasInsurance": false,
-      "married": false,
-      "children": 1,
-      "wealthPerYear": "150K",
-      "email": "barney@stinson.com"
-    }
-    {
-      "name": "Ross Geller",
-      "age": 46,
-      "country": "USA",
-      "profession": "paleonthologist",
-      "hasInsurance": true,
-      "married": true,
-      "children": 2,
-      "wealthPerYear": "90K",
-      "email": "ross@geller.com",
-      "phone": "01065423"
-    }
+      {
+        "name": "John Doe",
+        "age": 13,
+        "country": "USA",
+        "profession": "plumber",
+        "hasInsurance": true,
+        "married": true,
+        "children": null,
+        "wealthPerYear": "23K",
+        "email": "john@doe.com"
+      }
+      {
+        "name": "Mary Doe",
+        "age": 23,
+        "country": "USA",
+        "profession": "programmer",
+        "hasInsurance": true,
+        "married": false,
+        "children": 2,
+        "wealthPerYear": "26K",
+        "email": "mary@doe.com"
+      }
+      {
+        "name": "Marissa Geller",
+        "age": 45,
+        "country": "Ireland",
+        "profession": "cook",
+        "hasInsurance": false,
+        "married": true,
+        "children": 4,
+        "wealthPerYear": "43K",
+        "email": "marissa@doe.com"
+      }
+      {
+        "name": "Ted Mosby",
+        "age": 32,
+        "country": "USA",
+        "profession": "architect",
+        "hasInsurance": true,
+        "married": true,
+        "children": 2,
+        "wealthPerYear": "66K",
+        "email": "ted@gmail.com"
+      }
+      {
+        "name": "Aria Stark",
+        "age": 12,
+        "country": "UK",
+        "profession": "sword specialist",
+        "hasInsurance": true,
+        "married": false,
+        "children": null,
+        "wealthPerYear": "12K",
+        "email": "aria@stark.com"
+      }
+      {
+        "name": "Eleven Meyers",
+        "age": 18,
+        "country": "USA",
+        "profession": "demogorgon slayer",
+        "hasInsurance": true,
+        "married": false,
+        "children": null,
+        "wealthPerYear": "0K",
+        "email": "el@hawkins.com"
+      }
+      {
+        "name": "Hermione Granger",
+        "age": 13,
+        "country": "UK",
+        "profession": "witch",
+        "hasInsurance": false,
+        "married": true,
+        "children": 2,
+        "wealthPerYear": "78K",
+        "email": "hermione@hogwarts.com"
+      }
+      {
+        "name": "Chandler Bing",
+        "age": 50,
+        "country": "USA",
+        "profession": "advertisment copy writer",
+        "hasInsurance": true,
+        "married": true,
+        "children": 2,
+        "wealthPerYear": "88K",
+        "email": "chandler@bing.com",
+        "phone": "010643322"
+      }
+      {
+        "name": "Lily Aldrin",
+        "age": 35,
+        "country": "Italy",
+        "profession": "art counselor",
+        "hasInsurance": true,
+        "married": true,
+        "children": 3,
+        "wealthPerYear": "100K",
+        "email": "lily@captain.com"
+      }
+      {
+        "name": "Marshall Erikssen",
+        "age": 36,
+        "country": "Italy",
+        "profession": "judge fudge",
+        "hasInsurance": true,
+        "married": true,
+        "children": 3,
+        "wealthPerYear": "110K",
+        "email": "lily@captain.com"
+      }
+      {
+        "name": "Barney Stinson",
+        "age": 42,
+        "country": "Argentina",
+        "profession": "p.l.e.a.s.e",
+        "hasInsurance": false,
+        "married": false,
+        "children": 1,
+        "wealthPerYear": "150K",
+        "email": "barney@stinson.com"
+      }
+      {
+        "name": "Ross Geller",
+        "age": 46,
+        "country": "USA",
+        "profession": "paleonthologist",
+        "hasInsurance": true,
+        "married": true,
+        "children": 2,
+        "wealthPerYear": "90K",
+        "email": "ross@geller.com",
+        "phone": "01065423"
+      }
